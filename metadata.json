@@ -1,0 +1,6 @@
+{
+  "name": "PakTok",
+  "description": "PakTok short video app with full-screen feed, watch-to-earn yellow coins, black and gold theme, video upload, and Easypaisa Coins to Cash redemption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

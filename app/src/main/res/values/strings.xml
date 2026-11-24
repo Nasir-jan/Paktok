@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PakTok</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_upload">Upload</string>
+    <string name="nav_profile">Profile</string>
+    <string name="coins_label">Coins</string>
+    <string name="watch_earn_rate">+10 coins / 30s</string>
+    <string name="coins_earned_toast">+10 Coins Earned!</string>
+    <string name="action_like">Like</string>
+    <string name="action_comment">Comment</string>
+    <string name="action_share">Share</string>
+    <string name="action_follow">Follow</string>
+    <string name="action_following">Following</string>
+    <string name="upload_title">Create PakTok</string>
+    <string name="upload_select_video">Pick Video from Gallery</string>
+    <string name="upload_change_video">Change Video</string>
+    <string name="upload_caption_hint">Write a catchy caption &amp; #hashtags...</string>
+    <string name="upload_music_hint">Audio / Sound title</string>
+    <string name="upload_publish_cta">Publish to PakTok</string>
+    <string name="profile_total_coins">Total Coins</string>
+    <string name="profile_coins_to_cash">Coins to Cash</string>
+    <string name="easypaisa_rate_badge">1,000 Coins = Rs. 10 Easypaisa</string>
+    <string name="easypaisa_sheet_title">Withdraw via Easypaisa</string>
+    <string name="easypaisa_number_label">Easypaisa Mobile Number (03XXXXXXXXX)</string>
+    <string name="easypaisa_name_label">Account Holder Name</string>
+    <string name="easypaisa_confirm_cta">Convert to Easypaisa Cash</string>
+    <string name="comments_title">Comments</string>
+    <string name="comments_hint">Add a golden comment...</string>
+    <string name="comments_send">Send</string>
+    <string name="live_label">Live</string>
+    <string name="live_locked_title">Live Stream Locked</string>
+    <string name="live_go_live">Go Live</string>
+</resources>
